@@ -18,7 +18,7 @@
 # I am adding timeout=5 seconds to avoid timeout error during geocode
 # this will produce a new csv file: (original filename)_(servicename)Geocoded.csv
 
-# (bath version doesn't require the first argument)
+# (batch version doesn't require the first argument)
 # usage note: 1st argument: service name [google, arcgis, openmapquest, nominatim]
 usage note: 2nd argument: input CSV file name
 usage note: 3rd argument: geocoding address field
